@@ -1,2 +1,2 @@
 # 01project
-Testing
+Testing Git and its features.
